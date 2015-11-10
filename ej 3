@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 3</TITLE>
+</HEAD>
+<BODY>
+
+<H1>Diferentes tipos de URL</H1>
+Enlace a <A HREF="http://www.webestilo.com">WebEstilo</A>.
+<br>
+Enlace al servidor de FTP
+de<A HREF="ftp://ftp.mozilla.org/pub/mozilla/">Mozilla</A>.
+<br>
+de<A HREF="file://C:"> la unidad C
+de su oredenador</A>.
+<br>
+Enlace a <a href="mailto:webmaster@bienvenidos.es">
+mailto:webmaster@bienvenido.es</A>
+<br>
+Enlace a las <A HREF="news://msnews.microsoft.com">News de Microsoft</A>.
+<br>
+
+
+</BODY>
+</HTML>
