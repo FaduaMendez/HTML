@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 2</TITLE>
+</HEAD>
+<BODY>
+<H1>Mi primera pagina</H1>
+<!--Aqui va un comentario que no es interpretado por el navegador-->
+<P>Hola mundo,esta es una pagina con titular,que tiene tambien un parrafo y unos cuantos saltos de linea</P>
+Uno<BR>
+Dos<BR>
+Tres<BR>
+</BODY>
+</HTML>
