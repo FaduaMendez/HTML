@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 3</TITLE>
+</HEAD>
+<BODY>
+<A NAME="arriba"><H1>Paginas de enlaces</H1></A>
+<A HREF="#abajo">Ir abajo</A><br>
+<A HREF="ej4.html">Ir a ejemplo 4</A><br><br>
+<A HREF="http://www.webestilo.com/">Ir a WebEstilo</A><br>
+
+<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>.<br>.<br>.<br>.<br>.<br>
+
+
+<A HREF="#arriba">Ir arriba</A>
+<A NAME="abajo"><br></A>
+
+
+</BODY>
+</HTML>
