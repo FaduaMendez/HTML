@@ -1,0 +1,46 @@
+<HTML>
+<HEAD>
+<TITLE>Ejemplo 3</TITLE>
+</HEAD>
+<BODY>
+
+<H1>LISTAS</H1>
+una lista ordenada
+<ol>
+<li>Uno</li>
+<li>Dos</li>
+<li>Tres</li>
+</ol>
+<br>
+<br>
+Una lista sin ordenar
+<ul>
+<li>Uno</li>
+<li>Dos</li>
+<li>Tres</li>
+</ul>
+<br><br>
+Una lista de glosario
+<dl>
+<dt>T&eacute;rmino1</dt>
+<dd>Definici&oacute;n1</dd>
+<dt>T&eacute;mino 2</dt>
+<dd>Definici&oacute;n 2</dd>
+</dl>
+<br><br>
+
+Lista anidadas
+<ul>
+<li>Uni
+<ul>
+<li>Uno</li>
+<li>Dos</li>
+<li>Tres</li>
+</ul>
+</li>
+<li>Dos</li>
+<li>Tres</li>
+</ul>
+
+</BODY>
+</HTML>
