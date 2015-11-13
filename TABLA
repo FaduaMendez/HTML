@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>EJEMPLO</title>
+</head>
+<body>
+<H2>TABLAS </H2>
+<TABLE BORDER="20">
+<TR>
+<TH>CABECERA 1 </TH>
+<TH>CABECERA 2 </TH>
+<TH>CABECERA 3 </TH>
+</TR>
+
+<TR>
+<TD>DATO 1 </TD>
+<TD>DATO 2 </TD>
+<TD>DATO 3 </TD>
+</TR>
+<TR>
+<TD>DATO 4 </TD>
+<TD>DATO 5 </TD>
+<TD>DATO 6 </TD>
+</TR>
+
+</TABLE>
+</body>
+</html>
