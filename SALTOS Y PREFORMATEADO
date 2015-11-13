@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>EJEMPLO</title>
+</head>
+<body>
+<H2>Texto
+preformateado</H2>
+DIFERENCIA ENTRE       UN TEXTO      NORMAL   Y    UN   PREFORMATEADO 
+CARACTERES
+<BR>
+IIIII<BR>
+<PRE>
+DIFERENCIA ENTRE       UN TEXTO      NORMAL   Y    UN   PREFORMATEADO 
+CARACTERES<BR>
+IIIII<BR>
+<H1>SALTOS Y LINEAS</H1>
+<HR>
+<HR WIDTH="80%">
+<HR WIDTH="100%">
+<HR WIDTH="20%">
+---
+<BR>
+<BR>
+----
+</PRE>
+</body>
+</html>
